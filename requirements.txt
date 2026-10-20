@@ -1,0 +1,7 @@
+requests>=2.31
+python-dotenv>=1.0
+
+# Seulement si tu utilises MAIL_SOURCE=outlook (application Azure) :
+# msal>=1.28
+# Seulement si tu utilises LLM_PROVIDER=anthropic :
+# anthropic>=0.40
